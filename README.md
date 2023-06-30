@@ -1,4 +1,4 @@
-# backtothegame-simple-calculator
+# backtothegame-calculator
 
 beta:
 
